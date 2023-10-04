@@ -7,3 +7,6 @@
 [submodule "LangChain-Comparative-PDF-Analysis-App"]
 	path = LangChain-Comparative-PDF-Analysis-App
 	url = https://github.com/avrabyt/LangChain-Comparative-PDF-Analysis-App.git
+[submodule "MultiLingual-ChatBot"]
+	path = MultiLingual-ChatBot
+	url = https://github.com/avrabyt/MultiLingual-ChatBot.git
