@@ -19,3 +19,6 @@
 [submodule "PersonalMemoryBot"]
 	path = PersonalMemoryBot
 	url = https://github.com/avrabyt/PersonalMemoryBot.git
+[submodule "MemoryBot"]
+	path = MemoryBot
+	url = https://github.com/avrabyt/MemoryBot.git
