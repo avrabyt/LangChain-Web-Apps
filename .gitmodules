@@ -1,3 +1,6 @@
 [submodule "LangChain-Web-Apps"]
 	path = LangChain-Web-Apps
 	url = https://github.com/avrabyt/LangChain-Web-Apps.git
+[submodule "LangChain-Tools-Streamlit-Callback-Handler"]
+	path = LangChain-Tools-Streamlit-Callback-Handler
+	url = https://github.com/avrabyt/LangChain-Tools-Streamlit-Callback-Handler.git
