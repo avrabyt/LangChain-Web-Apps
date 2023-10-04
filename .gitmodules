@@ -4,3 +4,6 @@
 [submodule "LangChain-Tools-Streamlit-Callback-Handler"]
 	path = LangChain-Tools-Streamlit-Callback-Handler
 	url = https://github.com/avrabyt/LangChain-Tools-Streamlit-Callback-Handler.git
+[submodule "LangChain-Comparative-PDF-Analysis-App"]
+	path = LangChain-Comparative-PDF-Analysis-App
+	url = https://github.com/avrabyt/LangChain-Comparative-PDF-Analysis-App.git
