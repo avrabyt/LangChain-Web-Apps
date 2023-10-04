@@ -13,3 +13,6 @@
 [submodule "BabyAGI-Web-App"]
 	path = BabyAGI-Web-App
 	url = https://github.com/avrabyt/BabyAGI-Web-App.git
+[submodule "ConstitutionalChain-LangChain"]
+	path = ConstitutionalChain-LangChain
+	url = https://github.com/avrabyt/ConstitutionalChain-LangChain.git
