@@ -16,3 +16,6 @@
 [submodule "ConstitutionalChain-LangChain"]
 	path = ConstitutionalChain-LangChain
 	url = https://github.com/avrabyt/ConstitutionalChain-LangChain.git
+[submodule "PersonalMemoryBot"]
+	path = PersonalMemoryBot
+	url = https://github.com/avrabyt/PersonalMemoryBot.git
