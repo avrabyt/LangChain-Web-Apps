@@ -10,3 +10,6 @@
 [submodule "MultiLingual-ChatBot"]
 	path = MultiLingual-ChatBot
 	url = https://github.com/avrabyt/MultiLingual-ChatBot.git
+[submodule "BabyAGI-Web-App"]
+	path = BabyAGI-Web-App
+	url = https://github.com/avrabyt/BabyAGI-Web-App.git
